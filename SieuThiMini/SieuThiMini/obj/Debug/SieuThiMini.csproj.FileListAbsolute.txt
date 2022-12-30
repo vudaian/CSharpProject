@@ -1,0 +1,17 @@
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe.config
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.exe
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\bin\Debug\SieuThiMini.pdb
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.AssemblyReference.cache
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_HeThong.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.Properties.Resources.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.GenerateResource.cache
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.exe
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.pdb
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_DangNhap.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_DangKy.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_MuaHang.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_QLDonHang.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_QLNhanVien.resources
+D:\Workspace\C#\Project\SieuThiMini\SieuThiMini\obj\Debug\SieuThiMini.form_ThanhToan.resources

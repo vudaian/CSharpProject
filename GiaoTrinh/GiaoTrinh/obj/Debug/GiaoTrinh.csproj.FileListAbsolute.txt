@@ -1,0 +1,13 @@
+D:\Baitap\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.exe.config
+D:\Baitap\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.exe
+D:\Baitap\GiaoTrinh\GiaoTrinh\bin\Debug\GiaoTrinh.pdb
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csprojAssemblyReference.cache
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.form_dangnhap.resources
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.form_hethong.resources
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.Properties.Resources.resources
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.GenerateResource.cache
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.csproj.CoreCompileInputs.cache
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.exe
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.pdb
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.form_giaotrinh.resources
+D:\Baitap\GiaoTrinh\GiaoTrinh\obj\Debug\GiaoTrinh.form_thongke.resources

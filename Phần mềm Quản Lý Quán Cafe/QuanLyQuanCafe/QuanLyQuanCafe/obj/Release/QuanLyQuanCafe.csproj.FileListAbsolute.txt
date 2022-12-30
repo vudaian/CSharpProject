@@ -1,0 +1,9 @@
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountProfile.resources
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Workspace\C#\Project\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
